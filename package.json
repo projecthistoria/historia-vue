@@ -1,6 +1,6 @@
 {
   "name": "historia-vue",
-  "version": "v1",
+  "version": "1.0.0",
   "description": "Historia Website using Vue framework",
   "main": "index.js",
   "author": "Indri Ruth",
